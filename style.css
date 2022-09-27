@@ -1,0 +1,25 @@
+body{
+    background-color: aquamarine;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  #myPic{
+   position: absolute;
+   top: 0px;
+   left: 25%;
+  }
+  #myPic1{
+    position: absolute;
+    top: 0px;
+    left: 25%;
+   }
+   #myPic2{
+    position: absolute;
+    top: 0px;
+    left: 25%;
+   }
